@@ -3,7 +3,8 @@
     "allow": [
       "Bash(uv *)",
       "Bash(mv *)",
-      "WebSearch"
+      "WebSearch",
+      "WebFetch(en.wikipedia.org)"
     ]
   },
   "$version": 3
